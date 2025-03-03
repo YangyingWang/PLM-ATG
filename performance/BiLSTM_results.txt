@@ -1,0 +1,152 @@
+-------------------BiLSTM OF AADP_PSSM--------------------
+############### EPOCH : 100
+Evaluate Train set
+Train loss:  0.004844652578819813
+Train acc:  0.9983333333333333
+Evaluate Val set
+Val loss:  0.3534442855510861
+Val acc:  0.94
+Overall best model saved with val loss 0.0294
+---------------------------------------------------------
+Test Accuracy: 0.975
+Test MCC: 0.9504277887790924
+Test F1 Score: 0.9753694581280788
+Test Recall: 0.99
+Test Precision: 0.9611650485436893
+Test Specificity: 0.96
+Test ROC AUC: 0.9869
+-------------------------------------------------
+
+-------------------BiLSTM OF DPC_PSSM--------------------
+############### EPOCH : 100
+Evaluate Train set
+Train loss:  0.04015955711273771
+Train acc:  0.9866666666666667
+Evaluate Val set
+Val loss:  0.23860972572583705
+Val acc:  0.9266666666666666
+Overall best model saved with val loss 0.0413
+---------------------------------------------------------
+Test Accuracy: 0.965
+Test MCC: 0.9304187826995326
+Test F1 Score: 0.9655172413793104
+Test Recall: 0.98
+Test Precision: 0.9514563106796117
+Test Specificity: 0.95
+Test ROC AUC: 0.9944
+-------------------------------------------------
+
+-------------------BiLSTM OF AAC_PSSM--------------------
+############### EPOCH : 100
+Evaluate Train set
+Train loss:  0.049243673204297296
+Train acc:  0.9833333333333333
+Evaluate Val set
+Val loss:  0.2618428302463144
+Val acc:  0.9266666666666666
+Overall best model saved with val loss 0.1489
+---------------------------------------------------------
+Test Accuracy: 0.93
+Test MCC: 0.8615521921784256
+Test F1 Score: 0.9320388349514563
+Test Recall: 0.96
+Test Precision: 0.9056603773584906
+Test Specificity: 0.9
+Test ROC AUC: 0.9683999999999999
+-------------------------------------------------
+
+-------------------BiLSTM OF AAC_PSSM(10)--------------------
+############### EPOCH : 100
+Evaluate Train set
+Train loss:  0.16007881258663378
+Train acc:  0.9416666666666667
+Evaluate Val set
+Val loss:  0.24775386452674866
+Val acc:  0.9066666666666666
+Overall best model saved with val loss 0.1853
+---------------------------------------------------------
+Test Accuracy: 0.895
+Test MCC: 0.8080176743014172
+Test F1 Score: 0.904977375565611
+Test Recall: 1.0
+Test Precision: 0.8264462809917356
+Test Specificity: 0.79
+Test ROC AUC: 0.9694
+-------------------------------------------------
+
+-------------------BiLSTM OF DPC_FASTA--------------------
+############### EPOCH : 100
+Evaluate Train set
+Train loss:  0.00041274773667809264
+Train acc:  1.0
+Evaluate Val set
+Val loss:  2.38433973044157
+Val acc:  0.8333333333333334
+Overall best model saved with val loss 0.3261
+---------------------------------------------------------
+Test Accuracy: 0.78
+Test MCC: 0.5628211765451587
+Test F1 Score: 0.768421052631579
+Test Recall: 0.73
+Test Precision: 0.8111111111111111
+Test Specificity: 0.83
+Test ROC AUC: 0.83965
+-------------------------------------------------
+
+-------------------BiLSTM OF AADP_FASTA--------------------
+############### EPOCH : 100
+Evaluate Train set
+Train loss:  0.0009151911008781386
+Train acc:  1.0
+Evaluate Val set
+Val loss:  2.3193125802325083
+Val acc:  0.8466666666666667
+Overall best model saved with val loss 0.3266
+---------------------------------------------------------
+Test Accuracy: 0.76
+Test MCC: 0.530722777603022
+Test F1 Score: 0.7333333333333334
+Test Recall: 0.66
+Test Precision: 0.825
+Test Specificity: 0.86
+Test ROC AUC: 0.85315
+-------------------------------------------------
+
+-------------------BiLSTM OF AAC_FASTA--------------------
+############### EPOCH : 100
+Evaluate Train set
+Train loss:  0.44206034274477707
+Train acc:  0.7733333333333333
+Evaluate Val set
+Val loss:  0.4927236706018448
+Val acc:  0.7733333333333333
+Overall best model saved with val loss 0.4203
+---------------------------------------------------------
+Test Accuracy: 0.715
+Test MCC: 0.44410209036511716
+Test F1 Score: 0.7466666666666666
+Test Recall: 0.84
+Test Precision: 0.672
+Test Specificity: 0.59
+Test ROC AUC: 0.7865
+-------------------------------------------------
+
+-------------------BiLSTM OF AAC_FASTA(10)--------------------
+############### EPOCH : 100
+Evaluate Train set
+Train loss:  0.4753652544398057
+Train acc:  0.76
+Evaluate Val set
+Val loss:  0.4703644052147865
+Val acc:  0.7866666666666666
+Overall best model saved with val loss 0.4217
+---------------------------------------------------------
+Test Accuracy: 0.725
+Test MCC: 0.4583492485141057
+Test F1 Score: 0.7488584474885843
+Test Recall: 0.82
+Test Precision: 0.6890756302521008
+Test Specificity: 0.63
+Test ROC AUC: 0.7955
+-------------------------------------------------
+

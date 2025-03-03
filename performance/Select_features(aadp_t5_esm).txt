@@ -1,0 +1,189 @@
+-------------------SVM OF T5_ESM2(2000)--------------------
+Best parameters: {'C': 12, 'gamma': 0.00010177547434364213}
+Best cross-validation score: 0.992
+-------------------------------------------------
+Training Accuracy: 1.0
+Training MCC: 1.0
+Training F1 Score: 1.0
+Training Recall: 1.0
+Training Precision: 1.0
+Training Specificity: 1.0
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.975
+Test MCC: 0.9500475035627969
+Test F1 Score: 0.9751243781094527
+Test Recall: 0.98
+Test Precision: 0.9702970297029703
+Test Specificity: 0.97
+Test ROC AUC: 0.9989
+-------------------------------------------------
+
+-------------------SVM OF T5_ESM2(1800)--------------------
+Best parameters: {'C': 19, 'gamma': 0.00010082811232112178}
+Best cross-validation score: 0.992
+-------------------------------------------------
+Training Accuracy: 1.0
+Training MCC: 1.0
+Training F1 Score: 1.0
+Training Recall: 1.0
+Training Precision: 1.0
+Training Specificity: 1.0
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.98
+Test MCC: 0.9601920576192068
+Test F1 Score: 0.9801980198019802
+Test Recall: 0.99
+Test Precision: 0.9705882352941176
+Test Specificity: 0.97
+Test ROC AUC: 0.9989
+-------------------------------------------------
+
+-------------------SVM OF T5_ESM2(1500)--------------------
+Best parameters: {'C': 10, 'gamma': 0.0001435035315480784}
+Best cross-validation score: 0.9933333333333334
+-------------------------------------------------
+Training Accuracy: 0.9986666666666667
+Training MCC: 0.997330395570391
+Training F1 Score: 0.9987293519695044
+Training Recall: 1.0
+Training Precision: 0.9974619289340102
+Training Specificity: 0.9971988795518207
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.98
+Test MCC: 0.9601920576192068
+Test F1 Score: 0.9801980198019802
+Test Recall: 0.99
+Test Precision: 0.9705882352941176
+Test Specificity: 0.97
+Test ROC AUC: 0.9990999999999999
+-------------------------------------------------
+
+-------------------SVM OF T5_ESM2(1300)--------------------
+Best parameters: {'C': 13, 'gamma': 0.00015842714750922146}
+Best cross-validation score: 0.9946666666666667
+-------------------------------------------------
+Training Accuracy: 1.0
+Training MCC: 1.0
+Training F1 Score: 1.0
+Training Recall: 1.0
+Training Precision: 1.0
+Training Specificity: 1.0
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.975
+Test MCC: 0.9504277887790924
+Test F1 Score: 0.9753694581280788
+Test Recall: 0.99
+Test Precision: 0.9611650485436893
+Test Specificity: 0.96
+Test ROC AUC: 0.9991
+-------------------------------------------------
+
+-------------------SVM OF T5_ESM2(1000)--------------------
+Best parameters: {'C': 14, 'gamma': 0.0003924044920215606}
+Best cross-validation score: 0.9933333333333334
+-------------------------------------------------
+Training Accuracy: 1.0
+Training MCC: 1.0
+Training F1 Score: 1.0
+Training Recall: 1.0
+Training Precision: 1.0
+Training Specificity: 1.0
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.975
+Test MCC: 0.9500475035627969
+Test F1 Score: 0.9751243781094527
+Test Recall: 0.98
+Test Precision: 0.9702970297029703
+Test Specificity: 0.97
+Test ROC AUC: 0.9992
+-------------------------------------------------
+
+-------------------SVM OF T5_ESM2(800)--------------------
+Best parameters: {'C': 3, 'gamma': 0.0008779670158735197}
+Best cross-validation score: 0.9933333333333334
+-------------------------------------------------
+Training Accuracy: 0.9986666666666667
+Training MCC: 0.997330395570391
+Training F1 Score: 0.9987293519695044
+Training Recall: 1.0
+Training Precision: 0.9974619289340102
+Training Specificity: 0.9971988795518207
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.98
+Test MCC: 0.9601920576192068
+Test F1 Score: 0.9797979797979798
+Test Recall: 0.97
+Test Precision: 0.9897959183673469
+Test Specificity: 0.99
+Test ROC AUC: 0.9993
+-------------------------------------------------
+
+-------------------SVM OF T5_ESM2(500)--------------------
+Best parameters: {'C': 12, 'gamma': 0.0016387386953815772}
+Best cross-validation score: 0.992
+-------------------------------------------------
+Training Accuracy: 1.0
+Training MCC: 1.0
+Training F1 Score: 1.0
+Training Recall: 1.0
+Training Precision: 1.0
+Training Specificity: 1.0
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.975
+Test MCC: 0.9500475035627969
+Test F1 Score: 0.9748743718592965
+Test Recall: 0.97
+Test Precision: 0.9797979797979798
+Test Specificity: 0.98
+Test ROC AUC: 0.9993
+-------------------------------------------------
+
+-------------------SVM OF T5_ESM2(300)--------------------
+Best parameters: {'C': 9, 'gamma': 0.0015096391254404906}
+Best cross-validation score: 0.9906666666666666
+-------------------------------------------------
+Training Accuracy: 1.0
+Training MCC: 1.0
+Training F1 Score: 1.0
+Training Recall: 1.0
+Training Precision: 1.0
+Training Specificity: 1.0
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.985
+Test MCC: 0.9700485036378032
+Test F1 Score: 0.9849246231155779
+Test Recall: 0.98
+Test Precision: 0.98989898989899
+Test Specificity: 0.99
+Test ROC AUC: 0.9994
+-------------------------------------------------
+
+-------------------SVM OF T5_ESM2(100)--------------------
+Best parameters: {'C': 14, 'gamma': 0.00678285580721478}
+Best cross-validation score: 0.9906666666666666
+-------------------------------------------------
+Training Accuracy: 1.0
+Training MCC: 1.0
+Training F1 Score: 1.0
+Training Recall: 1.0
+Training Precision: 1.0
+Training Specificity: 1.0
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.98
+Test MCC: 0.9607689228305227
+Test F1 Score: 0.9803921568627451
+Test Recall: 1.0
+Test Precision: 0.9615384615384616
+Test Specificity: 0.96
+Test ROC AUC: 0.9964999999999999
+-------------------------------------------------
+

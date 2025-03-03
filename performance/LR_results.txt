@@ -1,0 +1,126 @@
+-------------------LR OF AADP_PSSM--------------------
+Best parameters: {'C': 829.7190069283289}
+Best cross-validation score: 0.9573333333333334
+-------------------------------------------------
+Training Accuracy: 1.0
+Training MCC: 1.0
+Training F1 Score: 1.0
+Training Recall: 1.0
+Training Precision: 1.0
+Training Specificity: 1.0
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.95
+Test MCC: 0.900720865153615
+Test F1 Score: 0.9509803921568627
+Test Recall: 0.97
+Test Precision: 0.9326923076923077
+Test Specificity: 0.93
+Test ROC AUC: 0.9770000000000001
+-------------------------------------------------
+
+-------------------LR OF AAC_PSSM--------------------
+Best parameters: {'C': 3.7777206831253887}
+Best cross-validation score: 0.836
+-------------------------------------------------
+Training Accuracy: 0.8533333333333334
+Training MCC: 0.7061302181536762
+Training F1 Score: 0.8631840796019901
+Training Recall: 0.8829516539440203
+Training Precision: 0.8442822384428224
+Training Specificity: 0.8207282913165266
+Training ROC AUC: 0.9178480552526355
+-------------------------------------------------
+Test Accuracy: 0.825
+Test MCC: 0.6574382586514257
+Test F1 Score: 0.8372093023255814
+Test Recall: 0.9
+Test Precision: 0.782608695652174
+Test Specificity: 0.75
+Test ROC AUC: 0.9025
+-------------------------------------------------
+
+-------------------LR OF DPC_PSSM--------------------
+Best parameters: {'C': 2.042821513287533}
+Best cross-validation score: 0.9533333333333334
+-------------------------------------------------
+Training Accuracy: 1.0
+Training MCC: 1.0
+Training F1 Score: 1.0
+Training Recall: 1.0
+Training Precision: 1.0
+Training Specificity: 1.0
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.935
+Test MCC: 0.8721393653860685
+Test F1 Score: 0.9371980676328503
+Test Recall: 0.97
+Test Precision: 0.9065420560747663
+Test Specificity: 0.9
+Test ROC AUC: 0.9827
+-------------------------------------------------
+
+-------------------LR OF DPC_FASTA--------------------
+Best parameters: {'C': 0.032779355106480376}
+Best cross-validation score: 0.8533333333333333
+-------------------------------------------------
+Training Accuracy: 0.9813333333333333
+Training MCC: 0.9628772681207326
+Training F1 Score: 0.9824120603015075
+Training Recall: 0.9949109414758269
+Training Precision: 0.9702233250620348
+Training Specificity: 0.9663865546218487
+Training ROC AUC: 0.9974982359355956
+-------------------------------------------------
+Test Accuracy: 0.815
+Test MCC: 0.630283691506135
+Test F1 Score: 0.8121827411167513
+Test Recall: 0.8
+Test Precision: 0.8247422680412371
+Test Specificity: 0.83
+Test ROC AUC: 0.8646
+-------------------------------------------------
+
+-------------------LR OF AAC_FASTA--------------------
+Best parameters: {'C': 41.55675401116152}
+Best cross-validation score: 0.756
+-------------------------------------------------
+Training Accuracy: 0.772
+Training MCC: 0.5425035548255811
+Training F1 Score: 0.7865168539325843
+Training Recall: 0.8015267175572519
+Training Precision: 0.7720588235294118
+Training Specificity: 0.7394957983193278
+Training ROC AUC: 0.8532013314231545
+-------------------------------------------------
+Test Accuracy: 0.715
+Test MCC: 0.43262534921415585
+Test F1 Score: 0.7298578199052133
+Test Recall: 0.77
+Test Precision: 0.6936936936936937
+Test Specificity: 0.66
+Test ROC AUC: 0.7837000000000001
+-------------------------------------------------
+
+-------------------LR OF AADP_FASTA--------------------
+Best parameters: {'C': 0.045736741908285125}
+Best cross-validation score: 0.8480000000000001
+-------------------------------------------------
+Training Accuracy: 0.9906666666666667
+Training MCC: 0.9814455125566814
+Training F1 Score: 0.9911727616645649
+Training Recall: 1.0
+Training Precision: 0.9825
+Training Specificity: 0.9803921568627451
+Training ROC AUC: 0.9982394993620858
+-------------------------------------------------
+Test Accuracy: 0.815
+Test MCC: 0.630283691506135
+Test F1 Score: 0.8121827411167513
+Test Recall: 0.8
+Test Precision: 0.8247422680412371
+Test Specificity: 0.83
+Test ROC AUC: 0.8628
+-------------------------------------------------
+

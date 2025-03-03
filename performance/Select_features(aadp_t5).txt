@@ -1,0 +1,189 @@
+-------------------SVM OF AADP_T5(2000)--------------------
+Best parameters: {'C': 7, 'gamma': 0.0001389864917685176}
+Best cross-validation score: 0.9880000000000001
+-------------------------------------------------
+Training Accuracy: 0.9986666666666667
+Training MCC: 0.997330395570391
+Training F1 Score: 0.9987293519695044
+Training Recall: 1.0
+Training Precision: 0.9974619289340102
+Training Specificity: 0.9971988795518207
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.98
+Test MCC: 0.9601920576192068
+Test F1 Score: 0.9801980198019802
+Test Recall: 0.99
+Test Precision: 0.9705882352941176
+Test Specificity: 0.97
+Test ROC AUC: 0.9992
+-------------------------------------------------
+
+-------------------SVM OF AADP_T5(1800)--------------------
+Best parameters: {'C': 10, 'gamma': 0.00013044602652597206}
+Best cross-validation score: 0.9880000000000001
+-------------------------------------------------
+Training Accuracy: 1.0
+Training MCC: 1.0
+Training F1 Score: 1.0
+Training Recall: 1.0
+Training Precision: 1.0
+Training Specificity: 1.0
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.985
+Test MCC: 0.9704367948586523
+Test F1 Score: 0.9852216748768473
+Test Recall: 1.0
+Test Precision: 0.970873786407767
+Test Specificity: 0.97
+Test ROC AUC: 0.9991
+-------------------------------------------------
+
+-------------------SVM OF AADP_T5(1500)--------------------
+Best parameters: {'C': 15, 'gamma': 0.00010067267355163625}
+Best cross-validation score: 0.9866666666666667
+-------------------------------------------------
+Training Accuracy: 1.0
+Training MCC: 1.0
+Training F1 Score: 1.0
+Training Recall: 1.0
+Training Precision: 1.0
+Training Specificity: 1.0
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.985
+Test MCC: 0.9704367948586523
+Test F1 Score: 0.9852216748768473
+Test Recall: 1.0
+Test Precision: 0.970873786407767
+Test Specificity: 0.97
+Test ROC AUC: 0.999
+-------------------------------------------------
+
+-------------------SVM OF AADP_T5(1300)--------------------
+Best parameters: {'C': 6, 'gamma': 0.0001673691308963037}
+Best cross-validation score: 0.9893333333333334
+-------------------------------------------------
+Training Accuracy: 0.9986666666666667
+Training MCC: 0.997330395570391
+Training F1 Score: 0.9987293519695044
+Training Recall: 1.0
+Training Precision: 0.9974619289340102
+Training Specificity: 0.9971988795518207
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.98
+Test MCC: 0.9607689228305227
+Test F1 Score: 0.9803921568627451
+Test Recall: 1.0
+Test Precision: 0.9615384615384616
+Test Specificity: 0.96
+Test ROC AUC: 0.9989
+-------------------------------------------------
+
+-------------------SVM OF AADP_T5(1000)--------------------
+Best parameters: {'C': 11, 'gamma': 0.00015227635203679023}
+Best cross-validation score: 0.9893333333333334
+-------------------------------------------------
+Training Accuracy: 1.0
+Training MCC: 1.0
+Training F1 Score: 1.0
+Training Recall: 1.0
+Training Precision: 1.0
+Training Specificity: 1.0
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.98
+Test MCC: 0.9607689228305227
+Test F1 Score: 0.9803921568627451
+Test Recall: 1.0
+Test Precision: 0.9615384615384616
+Test Specificity: 0.96
+Test ROC AUC: 0.9989
+-------------------------------------------------
+
+-------------------SVM OF AADP_T5(800)--------------------
+Best parameters: {'C': 5, 'gamma': 0.00037977810543107955}
+Best cross-validation score: 0.9879999999999999
+-------------------------------------------------
+Training Accuracy: 0.9986666666666667
+Training MCC: 0.997330395570391
+Training F1 Score: 0.9987293519695044
+Training Recall: 1.0
+Training Precision: 0.9974619289340102
+Training Specificity: 0.9971988795518207
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.99
+Test MCC: 0.9801960588196069
+Test F1 Score: 0.9900990099009901
+Test Recall: 1.0
+Test Precision: 0.9803921568627451
+Test Specificity: 0.98
+Test ROC AUC: 0.9994
+-------------------------------------------------
+
+-------------------SVM OF AADP_T5(500)--------------------
+Best parameters: {'C': 3, 'gamma': 0.0011189756044450373}
+Best cross-validation score: 0.9866666666666667
+-------------------------------------------------
+Training Accuracy: 0.9986666666666667
+Training MCC: 0.997330395570391
+Training F1 Score: 0.9987293519695044
+Training Recall: 1.0
+Training Precision: 0.9974619289340102
+Training Specificity: 0.9971988795518207
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.99
+Test MCC: 0.98
+Test F1 Score: 0.99
+Test Recall: 0.99
+Test Precision: 0.99
+Test Specificity: 0.99
+Test ROC AUC: 0.9995999999999999
+-------------------------------------------------
+
+-------------------SVM OF AADP_T5(300)--------------------
+Best parameters: {'C': 18, 'gamma': 0.0005054294932764693}
+Best cross-validation score: 0.9866666666666667
+-------------------------------------------------
+Training Accuracy: 0.9986666666666667
+Training MCC: 0.997330395570391
+Training F1 Score: 0.9987293519695044
+Training Recall: 1.0
+Training Precision: 0.9974619289340102
+Training Specificity: 0.9971988795518207
+Training ROC AUC: 0.999992872467053
+-------------------------------------------------
+Test Accuracy: 0.965
+Test MCC: 0.9304187826995326
+Test F1 Score: 0.9655172413793104
+Test Recall: 0.98
+Test Precision: 0.9514563106796117
+Test Specificity: 0.95
+Test ROC AUC: 0.9982
+-------------------------------------------------
+
+-------------------SVM OF AADP_T5(100)--------------------
+Best parameters: {'C': 12, 'gamma': 0.014515805037981938}
+Best cross-validation score: 0.9746666666666666
+-------------------------------------------------
+Training Accuracy: 1.0
+Training MCC: 1.0
+Training F1 Score: 1.0
+Training Recall: 1.0
+Training Precision: 1.0
+Training Specificity: 1.0
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.955
+Test MCC: 0.9100455034127843
+Test F1 Score: 0.9552238805970149
+Test Recall: 0.96
+Test Precision: 0.9504950495049505
+Test Specificity: 0.95
+Test ROC AUC: 0.9965
+-------------------------------------------------
+
