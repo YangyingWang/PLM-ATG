@@ -1,5 +1,0 @@
-The number of Positive_training is: 393
-The number of Negative_training is: 393/357
-The number of Positive_test is: 100
-The number of Negative_test is: 100
-The total number is: 986
