@@ -29,6 +29,7 @@ We have provided PLM embeddings for the protein sequences in this dataset in the
 - get_ProtBert_feature.py: extract ProtBERT embedding.
 - get_ProtT5_feature.py: extract ProtT5 embedding.
 - get_esm2_feature.py: extract ESM-2 embedding.
+---
 ! You need note:
 - You must change the path of input and output files to your actual path.
 - You must pay attention to the directory structure of the input and output files.
