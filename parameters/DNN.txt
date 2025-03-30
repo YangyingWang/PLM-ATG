@@ -1,0 +1,114 @@
+-------------------DNN OF AADP_PSSM--------------------
+############### EPOCH : 100
+Evaluate Train set
+Train loss:  0.020562854155361188
+Train acc:  0.9933333333333333
+Evaluate Val set
+Val loss:  1.4543743856530025
+Val acc:  0.9533333333333334
+Overall best model saved with val loss 0.0167
+------------------------------------------------------------
+Test Accuracy: 0.945
+Test MCC: 0.8911145902927308
+Test F1 Score: 0.9463414634146342
+Test Recall: 0.97
+Test Precision: 0.9238095238095239
+Test Specificity: 0.92
+Test ROC AUC: 0.9937999999999999
+-------------------------------------------------
+
+-------------------DNN OF DPC_PSSM--------------------
+############### EPOCH : 100
+Evaluate Train set
+Train loss:  0.11569827451625316
+Train acc:  0.9466666666666667
+Evaluate Val set
+Val loss:  1.5762306243597872
+Val acc:  0.88
+Overall best model saved with val loss 0.0090
+------------------------------------------------------------
+Test Accuracy: 0.94
+Test MCC: 0.8828295892956407
+Test F1 Score: 0.9375
+Test Recall: 0.9
+Test Precision: 0.9782608695652174
+Test Specificity: 0.98
+Test ROC AUC: 0.988
+-------------------------------------------------
+
+-------------------DNN OF AAC_PSSM--------------------
+############### EPOCH : 100
+Evaluate Train set
+Train loss:  0.16722411750505367
+Train acc:  0.93
+Evaluate Val set
+Val loss:  0.2622655579134038
+Val acc:  0.88
+Overall best model saved with val loss 0.1764
+------------------------------------------------------------
+Test Accuracy: 0.92
+Test MCC: 0.8427009716003844
+Test F1 Score: 0.923076923076923
+Test Recall: 0.96
+Test Precision: 0.8888888888888888
+Test Specificity: 0.88
+Test ROC AUC: 0.966
+-------------------------------------------------
+
+-------------------DNN OF AAC-------------------
+############### EPOCH : 100
+Evaluate Train set
+Train loss:  0.45883469919363656
+Train acc:  0.7766666666666666
+Evaluate Val set
+Val loss:  0.4887803024367282
+Val acc:  0.78
+Overall best model saved with val loss 0.4471
+------------------------------------------------------------
+Test Accuracy: 0.725
+Test MCC: 0.467357507253072
+Test F1 Score: 0.7577092511013216
+Test Recall: 0.86
+Test Precision: 0.6771653543307087
+Test Specificity: 0.59
+Test ROC AUC: 0.7944
+-------------------------------------------------
+
+-------------------DNN OF DPC-------------------
+############### EPOCH : 100
+Evaluate Train set
+Train loss:  0.000386349827858794
+Train acc:  1.0
+Evaluate Val set
+Val loss:  1.5916753862565154
+Val acc:  0.86
+Overall best model saved with val loss 0.3212
+------------------------------------------------------------
+Test Accuracy: 0.79
+Test MCC: 0.5842216489184008
+Test F1 Score: 0.7765957446808511
+Test Recall: 0.73
+Test Precision: 0.8295454545454546
+Test Specificity: 0.85
+Test ROC AUC: 0.8549000000000001
+-------------------------------------------------
+
+-------------------DNN OF AADP-------------------
+############### EPOCH : 100
+Evaluate Train set
+Train loss:  0.0037156189665741596
+Train acc:  1.0
+Evaluate Val set
+Val loss:  0.819285506191112
+Val acc:  0.8666666666666667
+Overall best model saved with val loss 0.3365
+------------------------------------------------------------
+Test Accuracy: 0.8
+Test MCC: 0.6099627595216836
+Test F1 Score: 0.7802197802197803
+Test Recall: 0.71
+Test Precision: 0.8658536585365854
+Test Specificity: 0.89
+Test ROC AUC: 0.8701000000000001
+-------------------------------------------------
+

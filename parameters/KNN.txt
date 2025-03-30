@@ -1,0 +1,127 @@
+-------------------KNN OF AADP_PSSM--------------------
+Best parameters: {'n_neighbors': 2, 'weights': 'uniform'}
+Best cross-validation score: 0.9426666666666665
+-------------------------------------------------
+Training Accuracy: 0.98
+Training MCC: 0.9607541361967471
+Training F1 Score: 0.980544747081712
+Training Recall: 0.9618320610687023
+Training Precision: 1.0
+Training Specificity: 1.0
+Training ROC AUC: 0.9982359355956123
+-------------------------------------------------
+Test Accuracy: 0.945
+Test MCC: 0.8900445033377781
+Test F1 Score: 0.9447236180904522
+Test Recall: 0.94
+Test Precision: 0.9494949494949495
+Test Specificity: 0.95
+Test ROC AUC: 0.9582999999999999
+-------------------------------------------------
+
+-------------------KNN OF AAC_PSSM--------------------
+Best parameters: {'n_neighbors': 2, 'weights': 'uniform'}
+Best cross-validation score: 0.9226666666666666
+-------------------------------------------------
+Training Accuracy: 0.984
+Training MCC: 0.9684721527647643
+Training F1 Score: 0.9844961240310077
+Training Recall: 0.9694656488549618
+Training Precision: 1.0
+Training Specificity: 1.0
+Training ROC AUC: 0.9976051489298009
+-------------------------------------------------
+Test Accuracy: 0.935
+Test MCC: 0.8710895433198603
+Test F1 Score: 0.9365853658536586
+Test Recall: 0.96
+Test Precision: 0.9142857142857143
+Test Specificity: 0.91
+Test ROC AUC: 0.94485
+-------------------------------------------------
+
+-------------------KNN OF DPC_PSSM--------------------
+Best parameters: {'n_neighbors': 2, 'weights': 'uniform'}
+Best cross-validation score: 0.9400000000000001
+-------------------------------------------------
+Training Accuracy: 0.98
+Training MCC: 0.9607541361967471
+Training F1 Score: 0.980544747081712
+Training Recall: 0.9618320610687023
+Training Precision: 1.0
+Training Specificity: 1.0
+Training ROC AUC: 0.9982359355956123
+-------------------------------------------------
+Test Accuracy: 0.93
+Test MCC: 0.86
+Test F1 Score: 0.93
+Test Recall: 0.93
+Test Precision: 0.93
+Test Specificity: 0.93
+Test ROC AUC: 0.9466000000000001
+-------------------------------------------------
+
+
+-------------------KNN OF DPC--------------------
+Best parameters: {'n_neighbors': 1, 'weights': 'distance'}
+Best cross-validation score: 0.7706666666666667
+-------------------------------------------------
+Training Accuracy: 1.0
+Training MCC: 1.0
+Training F1 Score: 1.0
+Training Recall: 1.0
+Training Precision: 1.0
+Training Specificity: 1.0
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.72
+Test MCC: 0.48007935851918326
+Test F1 Score: 0.65
+Test Recall: 0.52
+Test Precision: 0.8666666666666667
+Test Specificity: 0.92
+Test ROC AUC: 0.7200000000000001
+-------------------------------------------------
+
+-------------------KNN OF AAC--------------------
+Best parameters: {'n_neighbors': 2, 'weights': 'uniform'}
+Best cross-validation score: 0.8240000000000001
+-------------------------------------------------
+Training Accuracy: 0.9413333333333334
+Training MCC: 0.8891568119781487
+Training F1 Score: 0.9407008086253369
+Training Recall: 0.8880407124681934
+Training Precision: 1.0
+Training Specificity: 1.0
+Training ROC AUC: 0.9851034561407261
+-------------------------------------------------
+Test Accuracy: 0.81
+Test MCC: 0.6245127971196698
+Test F1 Score: 0.7978723404255319
+Test Recall: 0.75
+Test Precision: 0.8522727272727273
+Test Specificity: 0.87
+Test ROC AUC: 0.8570500000000001
+-------------------------------------------------
+
+-------------------KNN OF AADP--------------------
+Best parameters: {'n_neighbors': 3, 'weights': 'distance'}
+Best cross-validation score: 0.7746666666666666
+-------------------------------------------------
+Training Accuracy: 1.0
+Training MCC: 1.0
+Training F1 Score: 1.0
+Training Recall: 1.0
+Training Precision: 1.0
+Training Specificity: 1.0
+Training ROC AUC: 1.0
+-------------------------------------------------
+Test Accuracy: 0.69
+Test MCC: 0.41872166058519694
+Test F1 Score: 0.6075949367088608
+Test Recall: 0.48
+Test Precision: 0.8275862068965517
+Test Specificity: 0.9
+Test ROC AUC: 0.80705
+-------------------------------------------------
+
