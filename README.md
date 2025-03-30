@@ -38,5 +38,15 @@ We have provided PLM embeddings for the protein sequences in this dataset in the
 You can find our trained baseline model and final model in the /models folder. 
 If you want to train yourself or explore our work in depth, you can find all the model training source code in the /training folder. 
 In addition, parameters of our model are provided in the /parameters folder.
+### About 
+| Classifier   | CPU Requirements  | GPU Requirements  | RAM      | Storage         |  other     |
+|--------------|-----------|------------|--------------|--------------|---------------------------------|
+| LR | low        | no         | 1-4GB        | 1-5GB        | scikit-learn                     |
+| RF | moderate     | no         | 6-16GB       | 10-50GB      | scikit-learn           |
+| SVM| high        | no         | 16GB+        | 20-100GB     | scikit-learn                |
+| KNN   | high        | no         | 16GB+        | 20-100GB     |scikit-learn              |
+| BiLSTM | high        | yes         | 16GB+        | 50-200GB     | TensorFlow/PyTorch                |
+| DNN | moderate  | yes         | 16GB+        | 50-200GB     | TensorFlow/PyTorch, CUDA       |
+
 ## 5.Web Server
 Webserver is available at: https://www.cciwyy.top
