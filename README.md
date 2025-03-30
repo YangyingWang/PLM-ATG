@@ -38,7 +38,7 @@ We have provided PLM embeddings for the protein sequences in this dataset in the
 You can find our trained baseline model and final model in the /models folder. 
 If you want to train yourself or explore our work in depth, you can find all the model training source code in the /training folder. 
 In addition, parameters of our model are provided in the /parameters folder.
-### About 
+### About the computational resource for baseline models
 | Classifier   | CPU Requirements  | GPU Requirements  | RAM      | Storage         |  other     |
 |--------------|-----------|------------|--------------|--------------|---------------------------------|
 | LR | low        | no         | 1-4GB        | 1-5GB        | scikit-learn                     |
@@ -47,6 +47,15 @@ In addition, parameters of our model are provided in the /parameters folder.
 | KNN   | high        | no         | 16GB+        | 20-100GB     |scikit-learn              |
 | BiLSTM | high        | yes         | 16GB+        | 50-200GB     | TensorFlow/PyTorch                |
 | DNN | moderate  | yes         | 16GB+        | 50-200GB     | TensorFlow/PyTorch, CUDA       |
+### About computational resource needed for models with embeddings
+| Feature                        | Dimension   | CPU Requirements  | GPU Requirements  | RAM        | Storage        |
+|-----------------------------------|---------|----------|----------|-------------|-------------|
+| ProtT5                            | 1024    | moderate     | no       | 8GB         | 10-50GB     |   
+| ESM-2                             | 1280    | moderate     | no       | 8GB         | 10-50GB     |  
+| ProtT5+AADP-PSSM                  | 1444    | high       | no       | 16GB+       | 20-100GB    |
+| ESM-2+AADP-PSSM                   | 1700    | high       | no       | 16GB+       | 20-100GB    | 
+| ProtT5+ESM-2                      | 2304    | high       | no       | 32GB+       | 50-200GB    | 
+| ProtT5+ESM-2+AADP-PSSM            | 2724    | very high   | no       | 32GB+       | 50-200GB    | 
 
 ## 5.Web Server
 Webserver is available at: https://www.cciwyy.top
