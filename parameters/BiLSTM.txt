@@ -1,3 +1,12 @@
+EPOCHES: 100
+LEARNING_RATE: 0.001
+Batch Size: 16
+Loss Function: Binary Cross Entropy (BCELoss)
+Optimizer: Adam
+K-Fold: 5
+Dropout Rate: 0.2
+Random Seed: 53
+
 -------------------BiLSTM OF AADP_PSSM--------------------
 ############### EPOCH : 100
 Evaluate Train set
