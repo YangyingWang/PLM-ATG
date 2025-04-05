@@ -2,7 +2,6 @@ import argparse
 import numpy as np
 import joblib
 from Bio import SeqIO
-from sklearn.preprocessing import StandardScaler
 import torch
 import os
 import esm
@@ -12,7 +11,7 @@ device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 PLM_ATG = joblib.load("D:/Major/AIProject/ATG/models/SVM_AADP_ESM2(400).pkl")
 sorted_data = np.load("D:/Major/AIProject/ATG/data/sorted_features(aadp_esm).npz")
 sorted_features = sorted_data['sorted_features']
-scaler = StandardScaler()
+scaler = joblib.load("D:/Major/AIProject/ATG/models/scaler.pkl")
 
 def run_psiblast(fasta_path, pssm_path):
     command = [
@@ -154,12 +153,12 @@ def predict(fasta_path):
     aadp_esm2 = np.concatenate((aadp, esm2))
     print(f"\nCombined AADP-ESM2 shape: {aadp_esm2.shape}")
 
-    aadp_esm2 = aadp_esm2[sorted_features[:400]]
-    aadp_esm2_scaled = scaler.fit_transform([aadp_esm2])
+    aadp_esm2 = scaler.transform([aadp_esm2])
+    aadp_esm2 = aadp_esm2[:, sorted_features[:400]]
 
     print("\nStart predict...")
-    prediction = PLM_ATG.predict(aadp_esm2_scaled)
-    probability = PLM_ATG.predict_proba(aadp_esm2_scaled)[:, 1]
+    prediction = PLM_ATG.predict(aadp_esm2)
+    probability = PLM_ATG.predict_proba(aadp_esm2)[:, 1]
 
     print(f"Prediction: {prediction}")
     print(f"Prediction Probability: {probability}")
